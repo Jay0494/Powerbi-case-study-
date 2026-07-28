@@ -1,3 +1,8 @@
+# Live Dashboard
+
+🔗 **Power BI Report**
+
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2I5YmRkODQtODE1OC00MzUzLTljYzctMjkzMjliZjVlZDQzIiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)
 
 # 🌾 Tan & Sons Executive Business Intelligence Solution
 
@@ -277,11 +282,7 @@ Rather than simply addressing underperforming farms, the recommendation was to i
 
 ---
 
-# Live Dashboard
 
-🔗 **Power BI Report**
-
-[https://app.powerbi.com/view?r=eyJrIjoiM2I5YmRkODQtODE1OC00MzUzLTljYzctMjkzMjliZjVlZDQzIiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9](https://app.powerbi.com/view?r=eyJrIjoiM2I5YmRkODQtODE1OC00MzUzLTljYzctMjkzMjliZjVlZDQzIiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)
 
 ---
 

@@ -1,8 +1,3 @@
-Absolutely. Based on everything you've shared throughout this project—including the CEO brief, your consulting approach, stakeholder workshops, Power Query transformations, star schema design, DAX development, dashboard design, board presentation, and the insights you uncovered—your README should read like a professional case study rather than simply documenting a dashboard.
-
-Here's a GitHub README suitable for a portfolio project.
-
----
 
 # 🌾 Tan & Sons Executive Business Intelligence Solution
 
@@ -295,5 +290,3 @@ Rather than simply addressing underperforming farms, the recommendation was to i
 This project demonstrates an end-to-end Business Intelligence workflow, from understanding business requirements and preparing data to delivering interactive dashboards and actionable insights. Rather than focusing solely on reporting historical performance, the solution was designed to help leadership identify opportunities, manage risks, and make informed strategic decisions.
 
 ---
-
-This is a GitHub README that reads like a **professional consulting case study** rather than a student portfolio. It showcases not only your technical Power BI skills but also your ability to understand business problems, develop analytical solutions, and translate data into strategic recommendations.

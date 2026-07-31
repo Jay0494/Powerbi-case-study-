@@ -65,7 +65,8 @@ Examples included:
 
 ## 2. Data Acquisition
 
-Power BI was connected directly to a **MySQL database**.
+Power BI was connected directly to a **Azure Database
+**.
 
 The project incorporated multiple business datasets covering:
 
@@ -109,6 +110,7 @@ Tasks included:
 ---
 
 ## 5. Data Modelling
+<img width="1321" height="761" alt="data model" src="https://github.com/user-attachments/assets/c4bca7d0-e88a-402c-817b-96240c1e9f78" />
 
 A scalable **Star Schema** was designed to improve performance and simplify analysis.
 
@@ -154,6 +156,7 @@ Measures were designed to reflect agreed business definitions and support consis
 Four interactive dashboards were developed.
 
 ### Executive Overview
+<img width="1492" height="819" alt="image" src="https://github.com/user-attachments/assets/ceb07519-e76c-4354-be5a-c31d84cb6128" />
 
 Provides leadership with a high-level view of business performance.
 
@@ -169,20 +172,20 @@ Key KPIs include:
 ---
 
 ### Commercial Intelligence
+<img width="1650" height="929" alt="image" src="https://github.com/user-attachments/assets/bf24a59c-a15e-488a-9eab-d48bbcd74993" />
 
 Analyses:
 
 * Revenue trends
 * Sales channels
 * Customer performance
-* Export performance
-* Brand contribution
 
 Supports commercial decision-making and revenue optimisation.
 
 ---
 
 ### Product Intelligence
+<img width="1474" height="821" alt="image" src="https://github.com/user-attachments/assets/7ded33b3-9410-4ac1-bd2d-79e18c310642" />
 
 Provides insights into:
 
@@ -196,6 +199,7 @@ Helps identify product growth opportunities.
 ---
 
 ### Production Intelligence
+<img width="1478" height="829" alt="image" src="https://github.com/user-attachments/assets/70375840-3c0b-408e-bb04-da28a95c21d6" />
 
 Analyses:
 
